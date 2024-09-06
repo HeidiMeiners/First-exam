@@ -1,0 +1,139 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url(images/bg-header-desktop.png);
+    background-repeat: no-repeat;
+    font-family: 'Bai Jamjuree', sans-serif;
+    color: #7e8389;
+    font-size: 18;
+}
+
+.logo{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.titulo{
+    color: #5b5c63;
+    font-size: 20px;
+}
+
+.p1{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.centrar{
+    justify-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.bg{
+    border-radius: 40px;
+    color: white;
+    display: inline-block;
+    padding: 10px 25px;
+    margin-bottom: 50px;
+    cursor: pointer;
+}
+
+.b1{
+    background-color: rgb(98, 184, 98);
+    box-shadow: 0 4px #618c69;
+    margin-right: 10px;
+}
+
+.b2{
+    background-color: rgb(98, 105, 184);
+    box-shadow: 0 4px #4e5171;
+    margin-left: 10px;
+}
+
+.sub{
+    font-size: 18px;
+    color: #5b5c63;
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+
+.img1{
+    margin-left: -30px;
+}
+
+.z1{
+    margin-top: 80px;
+}
+
+.z15{
+    margin-left: 50px;
+}
+
+.masmrgn{
+    margin-top: 100px;
+}
+
+.mrgn{
+    margin-top: 50px;
+}
+
+.sub2{
+    font-size: 18px;
+    color: #5b5c63;
+    margin-bottom: 15px;
+}
+
+.img2{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.flex{
+    display: flex;
+}
+
+.margen{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 60px;
+}
+
+.margen2{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 110px;
+}
+
+.margen3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 120px;
+    margin-right: 100px;
+}
+
+.margen4{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+.pie{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #e8e8e8;
+    color: #5b5c63;
+}
+
+.margen5{
+    margin-right: 25px;
+    cursor: pointer;
+}
+
+.margen6{
+    margin-left: 300px;
+    margin-top: 50px;
+}
